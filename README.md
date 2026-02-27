@@ -6,7 +6,7 @@ A supplementary blocklist for Pi-hole, built from real traffic analysis and OISD
 
 ## Lists
 
-### `/list` — Manual traffic analysis
+### `/moto` — Manual traffic analysis
 Contains domains that slipped through currently implemented filters, captured on a Motorola device used as a test client.  
 All captured domains were passed to an AI model, which selected those qualifying as **tracking / advertising / marketing** related. These were then used to enrich the list.
 
