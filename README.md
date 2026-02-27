@@ -40,5 +40,5 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole
 
 ## Usage
 
-Add the raw URLs of `/list` and `/additional` as adlists in your Pi-hole admin panel, then update gravity
+Add the raw URLs of `/list` and `/additional` as adlists in your Pi-hole admin panel, then update gravity.
 run `pihole -g` on your device after every configuration update.
